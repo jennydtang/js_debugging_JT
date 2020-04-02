@@ -13,7 +13,7 @@ var woolOwners = [
     }
   ];
   
-  
+
   var haveYouAnyWool = function() {
       for (var i = 0; i < woolOwners.length; i++) {
       var totalBags = totalBags + i;
